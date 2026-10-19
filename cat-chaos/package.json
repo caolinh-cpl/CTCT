@@ -1,0 +1,1 @@
+{"name":"cat-chaos","version":"1.0.0","private":true,"scripts":{"start":"remotion studio --no-open","check":"tsc --noEmit"},"dependencies":{"remotion":"4.0.536","@remotion/cli":"4.0.536","react":"19.2.3","react-dom":"19.2.3"},"devDependencies":{"typescript":"5.9.3","@types/react":"19.2.7","@types/react-dom":"19.2.3"}}
